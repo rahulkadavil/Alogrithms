@@ -1,4 +1,5 @@
 import sys
+#The program reads an input file specified as the argument containing the strings to which the longest sequence have to determined and writes the output to output.txt
 lists = []
 write_file = open('output.txt', 'w')
 class LCD:
